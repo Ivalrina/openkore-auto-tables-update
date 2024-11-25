@@ -1,5 +1,5 @@
 {
-    "server_name": "tRO_renewal",
-    "patch_list": "https://ropatch.gnjoy.in.th/patchinfo/patch.txt",
-    "patch_download": "https://ropatch.gnjoy.in.th/patchfile"
+    "server_name": "IRO_renewal",
+    "patch_list": "http://patch.1.online.ragnarok.warpportal.net/patch02/patch2.txt",
+    "patch_download": "ftp://ropatch2.gravityus.com/patch"
 }
