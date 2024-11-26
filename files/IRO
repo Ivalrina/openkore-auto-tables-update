@@ -1,0 +1,5 @@
+{
+    "server_name": "IRO",
+    "patch_list": "http://patch1.playragnarok.com/patch02/patch2.txt",
+    "patch_download": "http://patch2.playragnarok.com/patch"
+}
